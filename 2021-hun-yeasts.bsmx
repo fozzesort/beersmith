@@ -1,0 +1,1293 @@
+<Selections><_PERMID_>0</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<Name>Selections</Name>
+<Type>7426</Type>
+<Dirty>1</Dirty>
+<Owndata>0</Owndata>
+<TID>1</TID>
+<Size>36</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Yeast><_PERMID_>556</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Abbaye Belgian 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Lallemand/Danstar</F_Y_LAB>
+<F_Y_PRODUCT_ID>-</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1280.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-01-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.6000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>Complex aroma and flavors may include peppery, fruity, banana,
+clovy, alcoholic, sweet and fruity. Does not display undesirable odors
+when properly handled.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>557</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>American West Coast Ale 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Lallemand/Danstar</F_Y_LAB>
+<F_Y_PRODUCT_ID>BRY-97</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1280.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-01-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>71.6000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>American Barleywine, American Pale Ale, American Amber ale, American Brown
+ale, American IPA, American Wheat, blonde ale, Cream ale, K&ouml;lsch, Imperial IPA,
+Irish red ale, Extra Special bitter, Scottish ale, Strong Scottish ale, Strong ale</F_Y_BEST_FOR>
+<F_Y_NOTES>BRY-97 is suitable for primary fermentation for beers up to 12% ABV. The yeast
+would require extra nutrition above that level of alcohol such as an addition of
+1g/hL of Servomyces. Slightly estery, almost neutral.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>558</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Bavarian Lager 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M76</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1380.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>45.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>57.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for many European style beers
+including Lagers, Pilsners, Helles, Munich
+Dunkel, Rauchbier and more.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+A superlative lager strain that is robust with a light sulphur aroma, expresses hop
+character well and promotes malt complexity.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Lightly acidic this yeast creates an extremely drinkable lager with less sulphur
+character than the usual strains.
+HIGHER ALCOHOL BEERS:
+This yeast does well at higher gravities having a good attenuation range; high alcohol
+beers do not tend to be too sweet.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>559</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Bavarian Wheat   2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M20</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1080.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>86.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for Hefeweizen, Kristal
+Weizen, Dunkel Weizen and more.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+It has abundant classic banana esters, balanced with clove like phenolic aromas; these
+aromas tend to overwhelm any malt or hop character in the beer.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+While this strain has only a moderate tendency to attenuate, the final beer will not be
+sweet. Instead, it will have a creamy, silky mouth feel with a full and rich medium body.
+This strain strips away most caramel and complex malt flavors, while deep roast and
+chocolate flavors will come through. The slight acidity produced, greatly enhances wheat
+malt characteristics. It has a very low flocculation rate that makes it ideal for beers that
+are traditionally served cloudy.
+HIGHER ALCOHOL BEERS:
+In higher alcohol beers, the phenolic character presented by this strain becomes a bit
+smokey and esters burst forth. Low attenuation rate may result in a sweet beer.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>560</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Belgian Abbey 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M47</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1080.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>77.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for Belgian Pale Ales and Abbey Ales.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+Belgian Tripel has a fantastic heavily fruity aroma, married perfectly with light spice
+and esters it is massively complex, spicy, estery and phenolic.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Belgian beers fermented with this strain will finish phenolic and dry, they will also
+exhibit fruity and a very complex ester characters. These characters exhibit into
+beautiful marriage of spice, fruit estery alcohol goodness.
+HIGHER ALCOHOL BEERS:
+High alcohol beers are this strain&rsquo;s bread and butter, with a high alcohol tolerance,
+strong beers just create excellent flavor and aroma characteristics.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>561</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Belgian Ale 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M41</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1240.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>82.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>88.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>82.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for Belgian Strong Golden and
+Belgian Strong Dark Ales.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+This yeast develops ripe fruit especially plum like esters during fermentation and are
+prominent in the finished beer, it will also show a lightly balanced phenolic character.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Beer fermented with this yeast exhibit excellent classic Belgian ale flavor, clove hints
+with a multitude of fruit esters, alcohol and banana character.
+HIGHER ALCOHOL BEERS:
+High alcohol beers are this strains bread and butter, with a high alcohol tolerance
+strong beers just create excellent flavor and aroma characteristics.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>562</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Belgian Tripel 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M31</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1340.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>82.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>88.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>82.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for Belgian Tripel Style and
+Trappist style beers.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+Belgian Tripel has a fantastic heavily fruity aroma, married perfectly with light spice
+and esters it is massively complex, spicy, estery and phenolic.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Belgian beers fermented with this strain will finish phenolic and dry, they will also
+exhibit fruity and very complex ester characters. These characters exhibit a beautiful
+marriage of spice and fruit estery alcohol goodness.
+HIGHER ALCOHOL BEERS:
+High alcohol beers are this strain&rsquo;s bread and butter, with a high alcohol tolerance,
+strong beers just create excellent flavor and aroma characteristics.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>563</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Belgian Wit 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M21</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1080.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>77.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for Witbier, Grand Cru, Spiced Ales
+and other specialty beers.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+Belgian Wit yeast presents a very light spice with a hint of bubble-gum character, this
+yeast works exceptionally well with botanics.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+This yeast has a slightly suppressed Belgian character presenting as phenolic and dry,
+fruity and very complex character. The mouthfeel is smooth, light, dry and crisp.
+HIGHER ALCOHOL BEERS:
+With a medium attenuation this strain will struggle with extremely high alcohol beers
+and may become stressed.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>564</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Belle Saison 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Lallemand/Danstar</F_Y_LAB>
+<F_Y_PRODUCT_ID>-</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1280.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-01-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>95.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Saison, Bi&egrave;re de Garde, Belgian style beers</F_Y_BEST_FOR>
+<F_Y_NOTES>Belle Saison produces esters and phenols, which results in beers with fruity, peppery
+and spicy flavors and aromas. Belle Saison is suitable for primary fermentation for beers up to 14% ABV. The yeast would require extra nutrition above that level of alcohol such as an addition of 1g/hL of Servomyces.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>569</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>British Ale Yeast 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M07</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1080.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>57.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Wide variety of British Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>A neutral top-fermenting strain especially suited for brewing silky smooth light ales with a neutral yeast aroma and flavor contribution. This strain also works well for stronger ales where a soft and balanced mouth feel is desired and where the nutty, spicy and earthy hop and malt characteristics should be enhanced. This yeast strain is highly flocculent and not prone to autolysis, making it an excellent choice for both cask and bottle conditioned beer.  Low in esters for an English yeast.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>570</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>CBC-1 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Lallemand/Danstar</F_Y_LAB>
+<F_Y_PRODUCT_ID>CBC-1</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1280.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-01-20</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>72.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>77.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>CBC-1 can be used to referment any type of ale. Used for cask and bottle conditioning.</F_Y_BEST_FOR>
+<F_Y_NOTES>CBC-1 is suitable for primary fermentation for fruit beers and Champagne-like beers
+up to 12% ABV. Neutral flavor and aroma. Alcohol resistant. Not able to utilize maltotriose.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>571</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Californian Lager 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s </F_Y_LAB>
+<F_Y_PRODUCT_ID>M54</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1180.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>77.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>68.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for California Common and lagers
+fermented at ambient (ale) temperatures.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+California lager yeast produces a clean lager aroma without the associated sulphur this
+yeast is perfect for most kinds of lager.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+California lager yeast produces clean and crisp lagers, this yeast is excellent for
+producing anything from a hoppy pilsner to a helles allowing excellent malt and hop
+character to be expressed.
+HIGHER ALCOHOL BEERS:
+With a medium alcohol tolerance this yeast is not designed for fermenting over 8.5%.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>573</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Diamond Lager 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Lallemand</F_Y_LAB>
+<F_Y_PRODUCT_ID>-</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1280.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>71.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>50.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>59.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Lagers</F_Y_BEST_FOR>
+<F_Y_NOTES>Diamond Lager yeast originated in Germany and is used in a number of commercial breweries to produce various lagers.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>574</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Empire Ale 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s </F_Y_LAB>
+<F_Y_PRODUCT_ID>M15</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1140.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-09</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for Scottish Heavy Ales, American
+Amber Ales, Sweet Stouts and more.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+When fermented at the correct temperature, Empire Ale yeast exhibits extremely
+characterful and appetizing estery aromas reminiscent of rich dark fruit.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+This yeast strain has been carefully selected to aid mouth feel in the finished beer.
+Body should be full leaning towards a rich dark fruit character. Care must be taken when
+designing the beer to adjust hop bitterness to alleviate an over sweet finished beer.
+HIGHER ALCOHOL BEERS:
+Higher alcohol beers will tend to be slightly too sweet and heavy due to the moderate
+attenuative capabilities of the strain although a lower mash temperature may help the
+fermentability and lower the final gravity.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>575</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>French Saison Ale 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M29</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1380.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>85.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>90.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>79.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>90.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for producing Saisons and
+farmhouse style beers up to 14% ABV.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+This French Saison ale yeast strain brings all the sophistication and complexity of
+classic Saison ale production to the home brew and small brewery setting. Spicy and
+peppery characteristics are prominent with an undertone of the ubiquitous fruity
+character.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+This is a highly characterful yeast strain that will dominate all but the highest hopping
+rates and complex malt bills. Beers fermented with this yeast will tend to be dry in
+the finish often with a slight drying acidity and peppery notes, aiding drinkability at
+higher alcohol levels. Higher alcohol beers may have an increased ester production and
+warming alcohol notes.
+HIGHER ALCOHOL BEERS:
+This yeast strain will perform exceptionally well up to 14% ABV making it suitable for a
+large range of Saisons.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>576</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Liberty Bell Ale 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M36</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1080.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>74.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for both English and American Pale Ales,
+Extra Special Bitters, Golden Ales and more</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+Some pear esters, possibly strawberry or kiwi-like aromas can be expected. Clean,
+delicate malt and hop aromas will survive fermentation. If hop and/or malt aromas are
+prominent in the beer this strain&rsquo;s aroma characteristics will fade to the background.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Clean, mostly neutral and smooth, finishes beers moderately dry but does not strip
+away body. Silky, lightly smooth texture, light to medium body, mild acidity and mostly
+neutral flavor. Aroma contributions from this yeast strain makes it a good all-rounder
+for a wide range of ales.
+HIGHER ALCOHOL BEERS:
+As a very good strain for strong ales, this yeast provides brews with plenty of body,
+without being heavy or dense.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>577</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>London ESB English Style Ale Yeast  2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Lallemand</F_Y_LAB>
+<F_Y_PRODUCT_ID>-</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>3</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1280.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.4000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>71.6000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>London ESB is a true English ale strain selected for reliable fermentation performance and 
+moderate ester production that lets the flavors and aromas of malt and hops shine through.  
+London ESB was selected from the Lallemand yeast culture library, and is an excellent choice  not only for brewing Extra Special Bitter but for other authentic heritage UK styles like Pale Ale, Bitter and Mild.  London ESB may also be used in the production of Ciders.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>578</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Mead 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M05</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>15.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1380.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>95.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>100.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>86.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for all styles of mead.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+This strain promotes fresh, floral aromas through high ester production, especially at
+cooler temperatures.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Meads fermented with this strain will finish dry and be relatively full-bodied with good
+complexity and a fresh, floral character.
+HIGHER ALCOHOL BEERS:
+This strain has high alcohol tolerance up to 18% ABV.
+For higher alcohol meads, ferment cooler; below 77&deg;F (25&deg;C).</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>579</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Munich 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Lallemand</F_Y_LAB>
+<F_Y_PRODUCT_ID>- </F_Y_PRODUCT_ID>
+<F_Y_TYPE>4</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1280.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>72.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>65.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>71.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Wheat beers</F_Y_BEST_FOR>
+<F_Y_NOTES>Danstar Munich Wheat Beer yeast originated in Bavaria, Germany, the home of many of the world&rsquo;s great wheat beer breweries.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>580</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Muntons Premium Gold (6g) 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Munton-Fison</F_Y_LAB>
+<F_Y_PRODUCT_ID>-</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>720.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>108.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Ale-ekhez.</F_Y_BEST_FOR>
+<F_Y_NOTES>Egy kit&uuml;n&#337; s&ouml;r&eacute;leszt&#337;.
+
+Nagyon j&oacute;l &uuml;lepedik, letapad az &uuml;veg alj&aacute;ra.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>429</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Munuch Classic Wheat Beer 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Lallemand</F_Y_LAB>
+<F_Y_PRODUCT_ID>- </F_Y_PRODUCT_ID>
+<F_Y_TYPE>4</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1380.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>72.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.6000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>71.6000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Wheat beers</F_Y_BEST_FOR>
+<F_Y_NOTES>Munich Classic is a Bavarian wheat beer strain 
+selected from the Doemens Culture 
+Collection.  It
+ can easily express the spicy and estery aroma profile typical to German 
+wheat beer styles. This strain is simple to use over a wide range of recipe variations and 
+fermentation conditions, making it a great choice for a number of traditional styles of 
+wheat beer.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>582</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Newcastle Dark Ale Yeast 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M03</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1080.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>65.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>72.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Full bodied British Ale styles</F_Y_BEST_FOR>
+<F_Y_NOTES>Newcastle Dark Ale Yeast successfully brings classic cask ale production into the homebrew or craft setting. This is a top-fermentation strain well suited for fermenting British ales, particularly dark and full bodied ales, mild brown ales and Scottish Heavy ales. Selected to not over attenuate, this strain will stop short of the low end gravities exhibited by other yeast strains. Dark fruity esters are pronounced when fermented at the appropriate temperature. Care should be taken to adjust hop bitterness to ensures it suits the ester character and complements the fuller bodied finish.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>583</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Nottingham Yeast 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Lallemand</F_Y_LAB>
+<F_Y_PRODUCT_ID>-</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>3</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1280.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>High flocculation - settles quickly.  Very good reputation as a fast starter and quick fermenter.  Clean and only slightly fruity.  Some nutty flavor in bottled version.  Relatively high attenuation.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>585</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>SafAle English Ale (11,5g) 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>DCL/Fermentis</F_Y_LAB>
+<F_Y_PRODUCT_ID>S-04</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>920.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>71.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.2000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2014-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Az egyik legjobb min&otilde;s&eacute;g&ucirc; angol ALE s&ouml;r&eacute;szeszt&otilde;</F_Y_BEST_FOR>
+<F_Y_NOTES>Er&otilde;s &eacute;s gyors erjed&eacute;s j&oacute; &uuml;leped&eacute;si tulajdons&aacute;gokkal.
+Az ut&oacute;lagos erjeszt&eacute;sn&eacute;l letapad az &uuml;veg alj&aacute;ra, &iacute;gy a ki&ouml;nt&eacute;sn&eacute;l szinte alig kavarodik fel.
+Alkoholt&ucirc;r&otilde;k&eacute;pess&eacute;g: 9 % V/V
+Ide&aacute;lis erjed&eacute;si h&otilde;m&eacute;rs&eacute;klet: 18 - 24&deg;C.
+Adagol&aacute;s : 5 - 8 g / 10Liter ; &Uacute;jraind&iacute;t&aacute;sn&aacute;l : 5 gr / hl</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>586</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>SafAle German Ale 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>DCL/Fermentis</F_Y_LAB>
+<F_Y_PRODUCT_ID>K-97</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1040.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>71.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.2000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2003-06-14</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>High attenuation ales, wheat beers and weizens.</F_Y_BEST_FOR>
+<F_Y_NOTES>Low sedimentation yeast, sometimes used in open fermentation. Good for wheat beers, weizens and light ales.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>511</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>SafAle Saison 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Fermentis</F_Y_LAB>
+<F_Y_PRODUCT_ID>BE-134</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>11.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1080.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>89.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>93.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.4000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>82.4000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2003-06-14</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian-Saison Style beers</F_Y_BEST_FOR>
+<F_Y_NOTES>This typical brewer&rsquo;s yeast strain is recommended for well-attenuated beers, produces fruity, floral and phenolic notes and a dry character. Produces highly refreshing beers, it is ideal for Belgian-Saison style.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>587</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>SafBrew Specialty Ale (11,5g) 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>DCL/Fermentis</F_Y_LAB>
+<F_Y_PRODUCT_ID>T-58</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>760.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>71.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>60.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>&Ouml;sszetett ale-khez.</F_Y_BEST_FOR>
+<F_Y_NOTES>Gy&uuml;m&ouml;lcs&ouml;s, f&ucirc;szeres, borsos &iacute;zeket k&ouml;lcs&ouml;n&ouml;z s&ouml;r&uuml;nknek.
+Alkoholt&ucirc;r&otilde; k&eacute;pess&eacute;ge nagyon magas. 
+Er&otilde;sebb, 8 V/V % feletti s&ouml;r&ouml;kn&eacute;l is kit&ucirc;n&otilde;en haszn&aacute;lhat&oacute;.
+
+K&ouml;zepesen &uuml;lepedik, az ide&aacute;lis h&otilde;m&eacute;rs&eacute;klet tartom&aacute;nya 18-24 fok k&ouml;z&ouml;tt van. F&otilde;leg vil&aacute;gos belga &eacute;s Ale s&ouml;r&ouml;kh&ouml;z javasolt. 
+
+Gyakran haszn&aacute;lj&aacute;k b&uacute;zas&ouml;r&ouml;kh&ouml;z is.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>588</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>SafLager West European Lager (11,5g) 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>DCL/Fermentis</F_Y_LAB>
+<F_Y_PRODUCT_ID>S-23</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1420.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>71.5000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.5000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>46.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>50.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Saccharomyces Carlsbergensis sz&aacute;r&iacute;tott Lager s&ouml;r&eacute;leszt&otilde;.</F_Y_BEST_FOR>
+<F_Y_NOTES>Nagyon magas alkoholtartalm&uacute; s&ouml;r&ouml;k k&eacute;sz&iacute;t&eacute;s&eacute;hez,
+
+     S&uuml;llyed&eacute;s: nagy
+     Final S&ucirc;r&ucirc;s&eacute;g: k&ouml;zepes
+     Erjed&eacute;si h&otilde;m&eacute;rs&eacute;klet: 9 - 15 &deg; C (ide&aacute;lis = 12 &deg; C)
+     Adagol&aacute;s: 8 - 12 g / 10 L</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>589</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Safale American (11,5g) 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>DCL/Fermentis</F_Y_LAB>
+<F_Y_PRODUCT_ID>US-05</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>960.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2014-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>A legh&iacute;resebb ale &eacute;leszt&otilde; t&ouml;rzs </F_Y_BEST_FOR>
+<F_Y_NOTES>Kiegyens&uacute;lyozottan erjeszt, alacsony a diacetil termel&eacute;se &eacute;s nagyon tiszta s&ouml;rt eredm&eacute;nyez.  </F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>590</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Safbrew F-2 (11,5g) 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>DCL/Fermentis</F_Y_LAB>
+<F_Y_PRODUCT_ID>F-2</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>990.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>360.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>82.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>77.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Le&aacute;lt erjed&eacute;s &uacute;jraind&iacute;t&aacute;s&aacute;hoz</F_Y_BEST_FOR>
+<F_Y_NOTES>Le&aacute;lt erjed&eacute;s &uacute;jraind&iacute;t&aacute;s&aacute;hoz, vagy m&aacute;sodlagos erjeszt&eacute;shez a palackban vagy a hord&oacute;ban.
+Semleges illat profil. Nem v&aacute;ltoztatja meg az eredeti &eacute;leszt&#337; karakter&eacute;t.
+Adagol&aacute;s: 2-7 g / 100L
+Erjed&eacute;s h&#337;m&eacute;rs&eacute;klet: 15-25 &deg; C</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>591</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Safbrew S-33 (11,5g) 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>DCL/Fermentis</F_Y_LAB>
+<F_Y_PRODUCT_ID>S-33</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>620.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>70.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.2000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>&Aacute;ltal&aacute;nos ale, belg&aacute;khoz is</F_Y_BEST_FOR>
+<F_Y_NOTES>&Aacute;ltal&aacute;nos c&eacute;l&uacute;, sz&eacute;les k&ouml;rben haszn&aacute;lt, er&otilde;s ale s&ouml;r&eacute;leszt&otilde; j&oacute; &iacute;z&ucirc; profilt ad az italnak.
+V&eacute;gs&otilde; s&ucirc;r&ucirc;s&eacute;g: a magas
+Erjed&eacute;s h&otilde;m&eacute;rs&eacute;klet: 15 - 24 &deg; C
+Adagol&aacute;s: 50 - 80 g / hl.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>592</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Safbrew Wheat (11,5g) 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>DCL/Fermentis</F_Y_LAB>
+<F_Y_PRODUCT_ID>WB-06</F_Y_PRODUCT_ID>
+<F_Y_TYPE>4</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1280.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>66.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>70.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2011-03-06</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>B&uacute;zas&ouml;r&ouml;kh&ouml;z</F_Y_BEST_FOR>
+<F_Y_NOTES>Els&otilde;sorban, a  b&uacute;zas&ouml;r&ouml;k erjeszt&eacute;s&eacute;hez aj&aacute;nlott.
+Erjeszt&eacute;si h&#337;m&eacute;rs&eacute;klet: 15 - 24&deg;C
+Adagol&aacute;s: 5 - 8 g / 10 l.
+</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>240</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Safebrew Abbey Ale 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>DCL/Fermentis</F_Y_LAB>
+<F_Y_PRODUCT_ID>BE-256</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1360.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-01-19</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>81.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>83.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>68.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Abbey Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>Active dry yeast recommended to brew a diversity of beers amongst which abbey style beers known for their high alcohol content. It ferments very fast and reveals subtle and well-balanced aromas. To maintain the aromatic profile at the end of the fermentation crop the yeast as soon as possible after fermentation.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>593</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Saflager Lager (11,5g) 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>DCL/Fermentis</F_Y_LAB>
+<F_Y_PRODUCT_ID>W-34/70</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1620.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-03-06</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>48.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>59.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>L&aacute;ger s&ouml;r&ouml;kh&ouml;z.</F_Y_BEST_FOR>
+<F_Y_NOTES>Az egyik legjobb als&oacute;erjeszt&eacute;s&#369; s&ouml;r&eacute;leszt&#337;, l&aacute;ger s&ouml;r&ouml;k k&eacute;sz&iacute;t&eacute;s&eacute;hez.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>594</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>US West Coast( 10 g) 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M44</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1080.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>1810.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Amerikai st&iacute;lus&uacute; s&ouml;r&ouml;kh&ouml;z</F_Y_BEST_FOR>
+<F_Y_NOTES>Egy fels&#337; erjeszt&eacute;s&#369; ale t&ouml;rzs, amely ide&aacute;lis a klasszikus amerikai st&iacute;lus&uacute; s&ouml;r&ouml;k k&eacute;sz&iacute;t&eacute;s&eacute;hez.
+
+Ez az &eacute;leszt&#337;, kiv&eacute;telesen tiszta &iacute;z&#369;.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_PERMID_>595</_PERMID_>
+<_MOD_>2021-01-27</_MOD_>
+<F_Y_NAME>Windsor Yeast 2021 Olasz</F_Y_NAME>
+<F_Y_LAB>Lallemand</F_Y_LAB>
+<F_Y_PRODUCT_ID>-</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>3</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>1280.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2021-01-01</F_Y_PKG_DATE>
+<F_Y_CELLS>60.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2021-01-01</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>Clean, well balanced finish.  Yeast produces an estery ale with a slighly fresh yeast flavor.  Not as quick as the Nottingham.  Some bannana aroma.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+<TxLog>0</TxLog>
+<PermCount>0</PermCount>
+<TxCount>0</TxCount>
+<TxTable>0</TxTable>
+<TxPath></TxPath>
+</Selections>
